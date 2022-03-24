@@ -1,0 +1,5 @@
+import random
+
+weapons = ["red", "purple", "blue", "green", "orange"]
+selected = random.choice(weapons)
+print(selected)
