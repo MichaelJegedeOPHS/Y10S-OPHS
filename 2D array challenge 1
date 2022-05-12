@@ -1,0 +1,6 @@
+MySpaceCompany = []
+print(MySpaceCompany)
+for i in range(3):
+    SpaceVehicle = input("enter a type of space vehicle")
+    MySpaceCompany.append(SpaceVehicle)
+print(MySpaceCompany)
