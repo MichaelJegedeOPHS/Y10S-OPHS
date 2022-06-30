@@ -1,0 +1,2 @@
+file = open("name.txt" ,"w")
+name = input("write something >>>")
