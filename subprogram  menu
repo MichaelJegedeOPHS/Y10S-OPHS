@@ -1,11 +1,11 @@
 def player1Game():
-    print("1 player game gmae chosen")
+    print("1 player game game chosen")
 
 def player2Game():
-    print("1 player game gmae chosen")
+    print("1 player game game chosen")
 
 def online():
-    print("1 player game gmae chosen")   
+    print("1 player game game chosen")   
 
 
 def menu():
@@ -27,9 +27,3 @@ def menu():
     else:
         print("input invalid")
         menu()
-              
-
-
-  
-  
-  
