@@ -1,0 +1,15 @@
+def menu():
+    print("")
+    print("Press 1 for Domination")
+    print ("Press 2 for Team Deathmatch  ")
+    print("Press 3 for Headquarters ")
+
+def getchoice():
+    choice = int(input("enter 1,2 or 3 for game mode>>>"))
+
+def start():
+       choices = menu()
+       choice = getchoice()
+       
+
+start()
