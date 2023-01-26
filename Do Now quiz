@@ -1,0 +1,16 @@
+print("---menu---")
+print("press 1 to enter the results")
+print("press 2 to view winner")
+print("press 3 to output score")
+print("")
+
+userinput = int(input("select 1, 2,or 3"))
+
+if userinput == 1:
+ gameresult()
+ 
+elif userinput == 2:
+  winner()
+  
+else:
+  outputAll()
